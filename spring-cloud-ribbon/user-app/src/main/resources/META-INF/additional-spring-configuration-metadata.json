@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "chatbook.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'chatbook.ribbon.eureka.enabled'"
+  },
+  {
+    "name": "chatbook.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'chatbook.ribbon.listOfServers'"
+  },
+  {
+    "name": "chatbook.ribbon.serverListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'chatbook.ribbon.serverListRefreshInterval'"
+  },
+  {
+    "name": "server.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ribbon.eureka.enabled'"
+  },
+  {
+    "name": "server.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ribbon.listOfServers'"
+  },
+  {
+    "name": "server.ribbon.serverListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ribbon.serverListRefreshInterval'"
+  },
+  {
+    "name": "chatbook.ribbon.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'chatbook.ribbon.ServerListRefreshInterval'"
+  }
+]}

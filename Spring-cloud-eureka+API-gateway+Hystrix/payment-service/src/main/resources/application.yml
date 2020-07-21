@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: PAYMENT-SERVICE
+
+server:
+  port: 9192
+  
+  

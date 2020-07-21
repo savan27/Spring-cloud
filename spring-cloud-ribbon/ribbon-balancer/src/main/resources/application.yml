@@ -1,0 +1,9 @@
+my-app:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: loaclhost:8080,loaclhost:8081,loaclhost:8082
+    ServerListRefreshInterval: 15000
+    
+server:
+  port: 8888    
